@@ -8,8 +8,9 @@
   />
 </p>
 
-- 🔭 I’m currently working on **A personal project very soon** - 🌱 I’m
-currently learning **TDD and Clean Architecture**
+- 🔭 I’m currently working on **a personal project very soon** 
+
+- 🌱 I’m currently learning **TDD and Clean Architecture**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
